@@ -26,21 +26,6 @@ home()
 setpos(-300.00,100.00)
 pd()
 
-'''
-for cols in range(1,14):
-    lt(90)
-    fd(200)
-    pu()
-    home()
-    setpos(-300.00,100.00)
-    fd(cols*50)
-    pd()
-pu()
-home()
-setpos(-300.00,100.00)
-pd()
-'''
-
 ht()
 
 #shape("turtle")
